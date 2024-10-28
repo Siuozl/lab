@@ -1,0 +1,18 @@
+{
+    "format_version": "1.10",
+    "minecraft:entity": {
+      "description": {
+        "identifier": "shop:shopkeeper",
+        "is_spawnable": true,
+        "is_summonable": true,
+        "is_experimental": false
+      },
+      "components": {
+        "minecraft:nameable": {},
+        "minecraft:trading": {
+          "table": "behavior_pack/trading_table.json"
+        }
+      }
+    }
+  }
+  

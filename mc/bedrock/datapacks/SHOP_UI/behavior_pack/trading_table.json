@@ -1,0 +1,29 @@
+{
+    "format_version": "1.10",
+    "trading": {
+      "display_name": "Shop",
+      "offers": [
+        {
+          "buy": {
+            "item": "minecraft:emerald",
+            "quantity": 1
+          },
+          "sell": {
+            "item": "minecraft:diamond",
+            "quantity": 1
+          }
+        },
+        {
+          "buy": {
+            "item": "minecraft:emerald",
+            "quantity": 5
+          },
+          "sell": {
+            "item": "minecraft:iron_sword",
+            "quantity": 1
+          }
+        }
+      ]
+    }
+  }
+  
