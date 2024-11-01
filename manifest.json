@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "",
+        "name": "",
+        "uuid": "20858404-a657-4bb6-8f5f-93b0f5c12b67",
+        "version": [1, 1, 1],
+        "min_engine_version": [ 1, 20, 40 ]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "resources",
+            "uuid": "49430569-8a83-4e81-a9c7-8999cc60a0ef",
+            "version": [1, 1, 1]
+        }
+    ]
+}
